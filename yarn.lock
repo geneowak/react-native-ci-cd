@@ -65,9 +65,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.4.0"
@@ -157,14 +157,14 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
-appcenter-analytics@^2.6.1:
+appcenter-analytics@2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/appcenter-analytics/-/appcenter-analytics-2.6.1.tgz#5b38caf8ece6f4356988154eeb03a90d81eece24"
   integrity sha512-+b1FJ3wxkixiERAwbplY5cswn2IFToJovesfv17Rt8rj5PO3K16XqXfSu3nkBFo7exxmMCU1e+OdL9+iYQWc4g==
   dependencies:
     appcenter "2.6.1"
 
-appcenter-crashes@^2.6.1:
+appcenter-crashes@2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/appcenter-crashes/-/appcenter-crashes-2.6.1.tgz#b73a5491c9af4ea817a4f9d810a4131ce1232d41"
   integrity sha512-iPce1e/lAWGUDv/2hMbGBxUC40wIcTLBO4KcIBIHNd62JfLKsQ3SSnqXF3YDGzjgBLc0jWFmqasTgZJMr4PPaA==
@@ -183,7 +183,7 @@ appcenter-link-scripts@2.6.1:
     which "1.2.11"
     xcode "2.0.0"
 
-appcenter@2.6.1, appcenter@^2.6.1:
+appcenter@2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/appcenter/-/appcenter-2.6.1.tgz#1d96e603ecfc5f0e7e34d580a19dd784f085802f"
   integrity sha512-2o6wZCk1v80Tq4AaXM7i4i9SibFFGesezRtb8fTqQjqSYqrP+umxoLxvu37UwGD7njRc599CALmNvEgbmAwi0g==
